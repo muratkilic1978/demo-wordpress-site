@@ -1,0 +1,988 @@
+# Translation of Plugins - Easing Slider - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Easing Slider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-08 12:08:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Easing Slider - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://matthewruddy.com/"
+msgstr "http://matthewruddy.com/"
+
+#. Description of the plugin/theme
+msgid "Easing Slider is an easy to use slider plugin for WordPress. Simple, lightweight & designed to get the job done, it allows you to get creating sliders without any difficulty."
+msgstr "Easing Slider is an easy to use slider plugin for WordPress. Simple, lightweight & designed to get the job done, it allows you to get creating sliders without any difficulty."
+
+#. Plugin URI of the plugin/theme
+msgid "http://easingslider.com/"
+msgstr "http://easingslider.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "Easing Slider"
+msgstr "Easing Slider"
+
+#: partials/welcome_getting-started.php:61
+msgid "We work hard to ensure every user gets the best support possible. If you've encountered a problem or have a question, don't hesitate to <a href=\"%s\">contact us</a>."
+msgstr "We work hard to ensure every user gets the best support possible. If you've encountered a problem or have a question, don't hesitate to <a href=\"%s\">contact us</a>."
+
+#: partials/welcome_getting-started.php:60
+msgid "Awesome Support"
+msgstr "Awesome Support"
+
+#: partials/welcome_getting-started.php:56
+msgid "We have documentation available covering everything from <a href=\"%s\">Getting Started</a> to our <a href=\"%s\">Developer API</a>. New documents and tutorials are added daily."
+msgstr "We have documentation available covering everything from <a href=\"%s\">Getting Started</a> to our <a href=\"%s\">Developer API</a>. New documents and tutorials are added daily."
+
+#: partials/welcome_getting-started.php:55
+msgid "Helpful Documentation"
+msgstr "God dokumentation"
+
+#: partials/welcome_getting-started.php:51
+msgid "Need help?"
+msgstr "Brug for hjælp?"
+
+#: partials/welcome_getting-started.php:42
+msgid "Widget Screenshot"
+msgstr "Widget Screenshot"
+
+#: partials/welcome_getting-started.php:36
+msgid "PHP Function Screenshot"
+msgstr "PHP Funktion Screenshot"
+
+#: partials/welcome_getting-started.php:30
+msgid "In a post"
+msgstr "I et Indlæg"
+
+#: partials/welcome_getting-started.php:29
+msgid "Shortcode Screenshot"
+msgstr "Shortcode Screenshot"
+
+#: partials/welcome_getting-started.php:25
+msgid "Displaying A Slider"
+msgstr "Vis en Slider"
+
+#: partials/welcome_getting-started.php:18
+msgid "Welcome Screenshot"
+msgstr "Velkommen Screenshot"
+
+#: partials/welcome_getting-started.php:14
+msgid "Click the \"Add Slides\" button to add image slides from the WordPress Media Library. Other slide types can be purchased from our vast array of extensions <a href=\"%s\">found here</a>."
+msgstr "Klik \"Tilføj Slide\" knappen for at tilføje billeder fra Mediebiblioteket. Andre Slide typer købes via extensions <a href=\"%s\">her</a>."
+
+#: partials/welcome_getting-started.php:13
+msgid "Adding Slides"
+msgstr "Tilføj Slides"
+
+#: partials/welcome_getting-started.php:11
+msgid "The \"Sliders\" menu is your access point for all aspects of Easing Slider. Simply click \"Add New\" to create your first slider and start adding slides."
+msgstr "Slider menuen er din tilgang til alt hvad der har med Sliders at gøre. Klik på \"Tilføj ny\" for at oprette din første slider og start med at tilføje slides dertil."
+
+#: partials/welcome_getting-started.php:10
+msgid "Sliders &rarr; Add New"
+msgstr "Sliders &rarr; Tilføj ny"
+
+#: partials/welcome_getting-started.php:8
+msgid "Creating Your First Slider"
+msgstr "Lav din første Slider"
+
+#: partials/welcome_getting-started.php:2
+msgid "Use the tips below to get started using Easing Slider. It's super quick and easy!"
+msgstr "Brug nedenstående tips, til at blive hjulpet igang. Det er super hurtigt og nemt!"
+
+#: partials/welcome_credits.php:27
+msgid "Contact Us"
+msgstr "Kontakt os"
+
+#: partials/welcome_credits.php:26
+msgid "Contribute on Github"
+msgstr "Bidrag på Github"
+
+#: partials/welcome_credits.php:21
+msgid "Just an average guy"
+msgstr "Bare en normal gut"
+
+#. #-#-#-#-#  tmp-easing-slider.pot (Easing Slider 2.2.1.1)  #-#-#-#-#
+#. Author of the plugin/theme
+#: partials/welcome_credits.php:19 partials/welcome_credits.php:20
+msgid "Matthew Ruddy"
+msgstr "Matthew Ruddy"
+
+#: partials/welcome_credits.php:15
+msgid "Proudly Built By:"
+msgstr "Stolt bygget af:"
+
+#: partials/welcome_credits.php:12
+msgid "Hopefully soon this page will be vividly decorated with contributors %s."
+msgstr "Forhåbentlig vil denne side, snart være fyldt med dekoreret bidragydere %s."
+
+#: partials/welcome_credits.php:10
+msgid "Whether you've encountered a simple bug and want to provide a fix, or you wish to tackle some enhancements or new features, please don't hesitate to <a href=\"%s\" target=\"_blank\">get involved</a>. Even if you can't code, your feedback is greated appreciated and really important to us, so <a href=\"%s\" target=\"_blank\">get in touch</a>."
+msgstr "Hvad end du oplever en simpel fejl eller vil bidrage med en rettelse, ønsker at hjælpe med nogle forbedringer eller nye funktioner, så tøv ikke med at <a href=\"%s\" target=\"_blank\">blive involveret</a>. Selv hvis du ikke kan kode, så er din feedback påskønnet og vigtig for os, så <a href=\"%s\" target=\"_blank\"> kom nærmere</a>."
+
+#: partials/welcome_credits.php:8
+msgid "Now, Easing Slider's official channel of development will be managed through <a href=\"%s\" target=\"_blank\">Github</a>, where I hope to encourage involvement from other developers who have a vision for Easing Slider as strong as my own."
+msgstr "Nu vil Easing Sliders officielle kanal til udvikling, blive håndteret igennem  <a href=\"%s\" target=\"_blank\">Github</a>, hvor jeg håber at opmuntre andre udviklere, der har en lige så stor vision for Easing Slider, som jeg."
+
+#: partials/welcome_credits.php:6
+msgid "Until now, Easing Slider has been developed solely by <a href=\"%s\" target=\"_blank\">me</a>, Matthew Ruddy, but it's time for this to change."
+msgstr "Indtil nu, er Easing Slider kun udviklet af <a href=\"%s\" target=\"_blank\">mig</a>, Matthew Ruddy, men det er tid til forandringer."
+
+#: partials/welcome_credits.php:2
+msgid "Want to contribute to Easing Slider? Here's how you can."
+msgstr "Vil du bidrage til Easing Slider? Se her hvordan."
+
+#: partials/welcome_about.php:46
+msgid "Return to Easing Slider"
+msgstr "Tilbage til Easing Slider"
+
+#: partials/welcome_about.php:42
+msgid "This update is just the beginning - the future will bring even more improvements to Easing Slider. We have plans for dozens of extensions that'll extend functionality far beyond what was capable before, ensuring Easing Slider remains the best slider plugin for WordPress."
+msgstr "Denne opdatering er kun begyndelsen - fremtiden vil bringe endnu flere forbedringer til Easing Slider. Vi har planer til et dusin extensions, der tilføje funktionalitet, som vil sikre at Easing Slider forbliver det bedste slider plugin til WordPress."
+
+#: partials/welcome_about.php:41
+msgid "More to come"
+msgstr "Mere på vej"
+
+#: partials/welcome_about.php:35
+msgid "Our entirely new infrastructure provides developers with more power than ever. More actions, filters, and extensions bring unlimited potential."
+msgstr "Vores helt nye infrastruktur giver udviklere flere muligheder end nogensinde. Flere actions, filters og extensions bringer uendelig potentiale."
+
+#: partials/welcome_about.php:34
+msgid "Developer Friendly"
+msgstr "Udvikler venlig"
+
+#: partials/welcome_about.php:30
+msgid "The plugin now relies entirely on modern CSS3 animations. This ensures smooth transitions, with graceful fallbacks for older browsers."
+msgstr "Dette plugin bruger nu kun CSS3 animationer. Dette sikre bedre overgange og gode muligheder for fallback til ændre browsere."
+
+#: partials/welcome_about.php:29
+msgid "CSS3 Animations"
+msgstr "CSS3 Animationer"
+
+#: partials/welcome_about.php:25
+msgid "A vast selection of extensions will soon be available, extending the functionality of Easing Slider beyond what's ever been possible before. View them <a href=\"admin.php?page=easingslider_discover_extensions\">here</a>."
+msgstr "Et stor udvalg af extensions er på vej. Se dem <a href=\"admin.php?page=easingslider_discover_extensions\">her</a>."
+
+#: partials/welcome_about.php:24
+msgid "Introducing Extensions"
+msgstr "Introducere extensions"
+
+#: partials/welcome_about.php:17
+msgid "The admin interface has been completely revamped to be easier, yet more powerful. The new look admin is instantly familiar, similar in style to the new WordPress Media Library."
+msgstr "Admin brugerfalden er lavet om fra bunden, for at gøre det nemmere, men stadig med flere funktioner. Det udseende er genkendelig, hvis man har set Mediebiblioteket."
+
+#: partials/welcome_about.php:16
+msgid "Simple Interface"
+msgstr "Simpel brugerflade"
+
+#: partials/welcome_about.php:15
+msgid "Interface Screenshot"
+msgstr "Brugerflade skærmbillede"
+
+#: partials/welcome_about.php:11
+msgid "Create as many sliders as you like, Easing Slider is no longer limited to just one slider. We're now using our own custom post type, a significant improvement for developers."
+msgstr "Opret så mange sliders som du ønsker, Easing Slider er ikke længere begrænser til kun én slider. Vi bruger nu vores egen indholdstype, som er en stor forbedring for udviklere."
+
+#: partials/welcome_about.php:10
+msgid "Unlimited Sliders"
+msgstr "Ubegrænset sliders"
+
+#: partials/welcome_about.php:9
+msgid "List Screenshot"
+msgstr "Liste skærmbillede"
+
+#: partials/welcome_about.php:3
+msgid "We've completely rebuilt Easing Slider from the ground up to be a more stable, modern, easy to use solution for creating sliders on your WordPress blog. There's loads of new features, some of which described below. For more information on the changes, <a href=\"%s\" target=\"_blank\">click here</a>."
+msgstr "Vi har fuldstændigt omskrevet Easing Slider fra grunde og op, for at gøre den mere stabil, moderne og nem at bruge. Der er masser af nye funktioner, hvor nogen af dem er beskrevet nedenunder. For mere information omkring ændringer, <a href=\"%s\" target=\"_blank\">Klik her</a>."
+
+#: partials/welcome_about.php:2
+msgid "Check out the awesome all new Easing Slider"
+msgstr "Tjek den fantastiske og nye Easing Slider"
+
+#: partials/welcome.php:4
+msgid "Version %s"
+msgstr "Version %s"
+
+#: partials/welcome.php:3
+msgid "Thank you for updating to the latest version! Easing Slider %s is ready to help you create beautiful sliders easily, quickly and for free!"
+msgstr "Tak fordi du opdaterede til den nyeste version! Easing Sluder %s er klar til at hjælpe dig med at oprette flotte Sliders nemt, hurtigt og gratis!"
+
+#: partials/welcome.php:2
+msgid "Welcome to Easing Slider %s"
+msgstr "Velkommen til Easing Slider %s"
+
+#: partials/list-sliders.php:27
+msgid "Search Sliders"
+msgstr "Søg i Slider"
+
+#: partials/list-sliders.php:9
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Søgeresultater for &#8220;%s&#8221;"
+
+#: partials/list-sliders.php:3
+msgid "Sliders "
+msgstr "Sliders "
+
+#: partials/edit-slider_sidebar.php:393
+msgid "Sets the duration (in milliseconds) for the pause between slide transitions."
+msgstr "Sæt længden (i milisekunder) af pausen i mellem slide overgange."
+
+#: partials/edit-slider_sidebar.php:389
+msgid "Pause Duration:"
+msgstr "Pause længde:"
+
+#: partials/edit-slider_sidebar.php:382
+msgid "Enable/Disable slideshow automatic playback."
+msgstr "Aktiver/deaktivere automatisk afspilning af slideshow."
+
+#: partials/edit-slider_sidebar.php:372
+msgid "Playback:"
+msgstr "Afspil:"
+
+#: partials/edit-slider_sidebar.php:360
+msgid "Automatic Playback"
+msgstr "Automatisk afspilning"
+
+#: partials/edit-slider_sidebar.php:344
+msgid "Select a position for the pagination icons."
+msgstr "Vælg positionen for sidenummerering ikonerne."
+
+#: partials/edit-slider_sidebar.php:340
+msgid "Bottom Center"
+msgstr "Midt bund"
+
+#: partials/edit-slider_sidebar.php:339
+msgid "Bottom Right"
+msgstr "Højre bund"
+
+#: partials/edit-slider_sidebar.php:338
+msgid "Bottom Left"
+msgstr "Venstre bund"
+
+#: partials/edit-slider_sidebar.php:337
+msgid "Top Center"
+msgstr "Midt top"
+
+#: partials/edit-slider_sidebar.php:336
+msgid "Top Right"
+msgstr "Højre top"
+
+#: partials/edit-slider_sidebar.php:335
+msgid "Top Left"
+msgstr "Venstre top"
+
+#: partials/edit-slider_sidebar.php:322
+msgid "Set to \"True\" to only show the pagination when the user hovers over the slideshow."
+msgstr "Vælg \"Til\" for kun at vise sidenummerering når en bruger fører musen henover slideshowet."
+
+#: partials/edit-slider_sidebar.php:306
+msgid "Enable/Disable the Pagination Icons. Each icon represents a slide in their respective order."
+msgstr "Aktiver/deaktiver sidenummerering ikoner. Hvert ikon repræsentere et slide i deres respektive rækkefølge."
+
+#: partials/edit-slider_sidebar.php:296
+msgid "Pagination:"
+msgstr "Sidenummerering:"
+
+#: partials/edit-slider_sidebar.php:268
+msgid "Select a position for the arrows."
+msgstr "Vælg en position for pilene."
+
+#: partials/edit-slider_sidebar.php:264 partials/edit-slider_sidebar.php:332
+msgid "Outside"
+msgstr "Udenfor"
+
+#: partials/edit-slider_sidebar.php:263 partials/edit-slider_sidebar.php:331
+msgid "Inside"
+msgstr "Indenfor"
+
+#: partials/edit-slider_sidebar.php:261 partials/edit-slider_sidebar.php:329
+msgid "Position:"
+msgstr "Position:"
+
+#: partials/edit-slider_sidebar.php:254
+msgid "Set to \"True\" to only show the arrows when the user hovers over the slideshow."
+msgstr "Vælg \"Til\" for kun at vise pilene, når brugeren fører musen hen over slideshowet."
+
+#: partials/edit-slider_sidebar.php:244 partials/edit-slider_sidebar.php:312
+msgid "On Hover:"
+msgstr "Ved Hover:"
+
+#: partials/edit-slider_sidebar.php:238
+msgid "Toggles the next and previous slide arrows."
+msgstr "Slå næste og forrig slide pile til og fra."
+
+#: partials/edit-slider_sidebar.php:234 partials/edit-slider_sidebar.php:302
+#: partials/edit-slider_sidebar.php:378
+msgid "Disable"
+msgstr "Deaktivere"
+
+#: partials/edit-slider_sidebar.php:231 partials/edit-slider_sidebar.php:299
+#: partials/edit-slider_sidebar.php:375
+msgid "Enable"
+msgstr "Aktivere"
+
+#: partials/edit-slider_sidebar.php:228
+msgid "Arrows:"
+msgstr "Pile:"
+
+#: partials/edit-slider_sidebar.php:200
+msgid "Sets the duration (in milliseconds) for the slideshow transition."
+msgstr "Sæt længden (i milisekunder) på slideshow overgangen."
+
+#: partials/edit-slider_sidebar.php:196
+msgid "Duration:"
+msgstr "Længde:"
+
+#: partials/edit-slider_sidebar.php:189
+msgid "Choose the transition effect you would like to use."
+msgstr "Vælg den overgangs effekt du vil bruge."
+
+#: partials/edit-slider_sidebar.php:181
+msgid "Effect:"
+msgstr "Effekt:"
+
+#: partials/edit-slider_sidebar.php:168
+msgid "Transitions"
+msgstr "Overgange"
+
+#: partials/edit-slider_sidebar.php:150
+msgid "Enable this option if you want the slider to use CSS background images for image slides."
+msgstr "Aktiver hvis du vil have slideren til at bruge CSS baggrundsbilleder i billede slides."
+
+#: partials/edit-slider_sidebar.php:147
+msgid "Use background images."
+msgstr "Brug baggrundsbilleder."
+
+#: partials/edit-slider_sidebar.php:141
+msgid "This option enables proportional slider resizing for responsive sliders. This maintains the aspect ratio. Disable this option for fixed height sliders."
+msgstr "Aktivere proportionel størrelse til responsiv sliders. Forholdet mellem højde og bredde beholdes. Deaktivere for at få fast højde sliders."
+
+#: partials/edit-slider_sidebar.php:138
+msgid "Proportionally resize slider."
+msgstr "Proportionel slider."
+
+#: partials/edit-slider_sidebar.php:132
+msgid "Tick this option to have the slider crop & resize images to fit the slider dimensions. This will only work with images from the WordPress Media Library."
+msgstr "Afkryds for beskære og ændre størrelsen på billeder, for at tilpasse dem til slider dimensionerne. Dette vil kun virke med billeder fra Mediebiblioteket."
+
+#: partials/edit-slider_sidebar.php:129
+msgid "Crop & resize images to fit slider."
+msgstr "Beskær og ændre størrelse af billede, så det passer til slider."
+
+#: partials/edit-slider_sidebar.php:123
+msgid "When enabled, the slider will set its container width to 100%. This option works for responsive sliders only. For best results, it's recommend that you disable image resizing when this option is enabled."
+msgstr "Når aktiveret, vil slideren sætte kontainer elementets bredde til 100%. Dette virker kun ved responsive sliders. For det bedste resultat, anbefaler vi at du deaktivere ændring af billede størrelse, når denne er aktiv."
+
+#: partials/edit-slider_sidebar.php:120
+msgid "Enable 100% full width."
+msgstr "Aktiver 100% fuld bredde."
+
+#: partials/edit-slider_sidebar.php:114
+msgid "Advanced Options"
+msgstr "Avanceret indstillinger"
+
+#: partials/edit-slider_sidebar.php:110
+msgid "Check this option to make this slider responsive. If enabled, the \"width\" and \"height\" values above will act as maximums."
+msgstr "Afkryds for at gøre denne slider responsiv. Hvis aktiveret, vil bredde og højde værdierne ovenover, agere som maksimum."
+
+#: partials/edit-slider_sidebar.php:107
+msgid "Make this slider responsive."
+msgstr "Gør denne slider responsiv."
+
+#: partials/edit-slider_sidebar.php:100
+msgid "Slideshow \"width\" and \"height\" values (in pixels)."
+msgstr "Slideshow \"bredde\" og \"højde\" værdier (i pixel). "
+
+#: partials/edit-slider_sidebar.php:96
+msgid "Height:"
+msgstr "Højde:"
+
+#: partials/edit-slider_sidebar.php:90
+msgid "Width:"
+msgstr "Bredde:"
+
+#: partials/edit-slider_sidebar.php:77
+msgid "Dimensions"
+msgstr "Dimensioner"
+
+#: partials/edit-slider_sidebar.php:68
+msgid "Remove this ad? <br><a href=\"%s\" target=\"_blank\">Purchase a premium add-on &raquo;</a>"
+msgstr "Fjern denne reklame? <br><a href=\"%s\" target=\"_blank\">Køb en premium extension &raquo;</a>"
+
+#: partials/edit-slider_sidebar.php:67
+msgid "Like Easing Slider? <br><a href=\"%s\">Support us with a Tweet &raquo;</a>"
+msgstr "Syntes du om Easing Slider? <br><a href=\"%s\">Støt os med et Tweet &raquo;</a>"
+
+#: partials/edit-slider_sidebar.php:54
+msgid "Check out Easing Slider, an easy to use free slider plugin for WordPress."
+msgstr "Tjek Easing Slider, et nemt og gratis slider plugin til WordPress."
+
+#: partials/edit-slider_sidebar.php:26
+msgid "Not published yet."
+msgstr "Ikke udgivet endnu."
+
+#: partials/edit-slider_sidebar.php:24
+msgid "Published on: <b>%s</b>"
+msgstr "Udgivet den: <b>%s</b>"
+
+#: partials/edit-slider_sidebar.php:11
+msgid "Publish"
+msgstr "Udgiv"
+
+#: partials/edit-slider.php:35
+msgid "Delete Selected"
+msgstr "Slet valgte"
+
+#: partials/edit-slider.php:34
+msgid "Cancel Selection"
+msgstr "Annuller valgte"
+
+#: partials/edit-slider.php:33
+msgid "Bulk Select"
+msgstr "Massehandling"
+
+#: partials/edit-slider.php:32
+msgid "Add Slides"
+msgstr "Tilføj Slides"
+
+#: partials/edit-slider.php:30
+msgid "Randomize the slide order"
+msgstr "Vilkårlig rækkefølge"
+
+#: partials/edit-slider.php:24
+msgid "Select All"
+msgstr "Vælg alle"
+
+#: partials/edit-slider.php:23
+msgid "Enter a slider name"
+msgstr "Indtast Slider navnet"
+
+#: partials/edit-slider.php:22
+msgid "Name:"
+msgstr "Navn:"
+
+#: partials/edit-slider.php:12
+msgid "Edit Slider"
+msgstr "Rediger Slider"
+
+#: partials/edit-settings_licenses.php:1
+msgid "Below you can register your extension licenses. This is required to enable extension updates. You can browse all available extensions <a href=\"%s\">here</a>."
+msgstr "Below you can register your extension licenses. This is required to enable extension updates. You can browse all available extensions <a href=\"%s\">here</a>."
+
+#: partials/edit-settings_general.php:61
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: partials/edit-settings_general.php:56
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: partials/edit-settings_general.php:51
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: partials/edit-settings_general.php:46
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: partials/edit-settings_general.php:41
+msgid "Installation Settings"
+msgstr "Installation indstillinger"
+
+#: partials/edit-settings_general.php:35
+msgid "Be careful before enabling this option, as the data cannot be recovered once it has been deleted."
+msgstr "Vær opmærksom før du aktivere denne mulighed, da dataene ikke kan genskabes, når de først er slettet."
+
+#: partials/edit-settings_general.php:32
+msgid "Check this box if you would like Easing Slider to completely remove all of its data when the plugin is deleted."
+msgstr "Afkryds denne, hvis du gerne vil fjerne alle Easing Slider data fuldstændig, når plugin'et slettes."
+
+#: partials/edit-settings_general.php:27
+msgid "Remove data on uninstall?"
+msgstr "Fjern data ved afinstallering?"
+
+#: partials/edit-settings_general.php:22
+msgid "Data Settings"
+msgstr "Data indstillinger"
+
+#: partials/edit-settings_general.php:16
+msgid "This option controls where the plugin's scripts and styling are loaded. \"Compatibility\" will load them in the page header, which is less performant but also less likely to suffer conflicts with other plugins. \"Optimized\" conditionally loads CSS and JS in the page footer, which is better for performance, but more likely to encounter errors. We recommend trying \"Optimized\" and reverting back if you encounter any issues."
+msgstr "Denne indstilling giver dig mulighed for at kontrollere, hvor scripts og styling bliver indlæst. \"Kompatibiltet\" vil indlæse dem i headeren, som ikke er det optimale mht. ydelse, men der er mindst risiko for en konflikt, med et andet plugin. \"Optimeret\" indlæser kun når der brug for det, i footeren, det optimalt for ydelse, men kan give problemer. Vi anbefaler, at bruge \"Optimeret\" og hvis det skaber problemer, fald tilbage på \"Kompatibilitet\"."
+
+#: partials/edit-settings_general.php:13
+msgid "Optimized (footer)"
+msgstr "Optimeret (footer)"
+
+#: partials/edit-settings_general.php:8
+msgid "Compatibility (header)"
+msgstr "Kompatibilitet (header)"
+
+#: partials/edit-settings_general.php:4
+msgid "Asset Loading"
+msgstr "Asset indlæsning"
+
+#: partials/edit-settings.php:37
+msgid "Save Settings"
+msgstr "Gem ændringer"
+
+#: partials/discover-extensions.php:24
+msgid "There was an error retrieving the extensions list from the server. Please try again later. <a href=\"%s\" target=\"_blank\">Click here</a> to view all extensions on our website."
+msgstr "Der skete en fejl under indlæsningen af extensions fra serveren. Prøv venligst igen senere. <a href=\"%s\" target=\"_blank\">Klik her</a> for at se alle extensions på dit websted."
+
+#: partials/discover-extensions.php:20
+msgid "Learn More &rarr;"
+msgstr "Læs mere &rarr;"
+
+#: partials/discover-extensions.php:10
+msgid "These extensions enhance Easing Slider, adding new features, providing new slide types and integrating Easing Slider with other plugins."
+msgstr "Disse extensions forbedre Easing Slider, tilføjer nye funktioner og slider typer. De kan også give integration med andre plugins."
+
+#: partials/discover-extensions.php:6
+msgid "Browse All"
+msgstr "Gennemse alle"
+
+#: partials/discover-extensions.php:3
+msgid "Extensions for Easing Slider"
+msgstr "Extensions til Easing Slider"
+
+#: partials/customizer.php:140
+msgid "Collapse"
+msgstr "Fold sammen"
+
+#: partials/customizer.php:138
+msgid "Collapse Sidebar"
+msgstr "Fold Sidebar sammen"
+
+#: partials/customizer.php:127
+msgid "Shadow Image"
+msgstr "Skygge billede"
+
+#: partials/customizer.php:122 partials/edit-slider_sidebar.php:250
+#: partials/edit-slider_sidebar.php:318
+msgid "False"
+msgstr "Fra"
+
+#: partials/customizer.php:121 partials/edit-slider_sidebar.php:247
+#: partials/edit-slider_sidebar.php:315
+msgid "True"
+msgstr "Til"
+
+#: partials/customizer.php:120
+msgid "Display a Drop Shadow"
+msgstr "Vis skygge"
+
+#: partials/customizer.php:116
+msgid "Drop Shadow"
+msgstr "Skygge"
+
+#: partials/customizer.php:108
+msgid "Radius"
+msgstr "Radius"
+
+#: partials/customizer.php:96
+msgid "Color"
+msgstr "Farve"
+
+#: partials/customizer.php:92
+msgid "Border"
+msgstr "Ramme"
+
+#: partials/customizer.php:84
+msgid "Icon Height"
+msgstr "Ikon højde"
+
+#: partials/customizer.php:78
+msgid "Icon Width"
+msgstr "Ikon bredde"
+
+#: partials/customizer.php:72
+msgid "\"Active\" Image"
+msgstr "\"Aktiv\" billede"
+
+#: partials/customizer.php:66
+msgid "\"Inactive\" Image"
+msgstr "\"Inaktiv\" billede"
+
+#: partials/customizer.php:62 partials/edit-slider_sidebar.php:284
+msgid "Pagination Icons"
+msgstr "Sidenummerering ikoner"
+
+#: partials/customizer.php:54
+msgid "Height"
+msgstr "Højde"
+
+#: partials/customizer.php:48 partials/customizer.php:102
+msgid "Width"
+msgstr "Bredde"
+
+#: partials/customizer.php:42
+msgid "\"Previous\" Arrow Image"
+msgstr "\"Forrige\" pil billede"
+
+#: partials/customizer.php:36
+msgid "\"Next\" Arrow Image"
+msgstr "\"Næste\" pil billede"
+
+#: partials/customizer.php:32 partials/edit-slider_sidebar.php:216
+msgid "Next & Previous Arrows"
+msgstr "Næste & Forrige pile"
+
+#: partials/customizer.php:20
+msgid "Change to another slider"
+msgstr "Skift til en anden slider"
+
+#: partials/customizer.php:18
+msgid "You are customizing <strong class=\"theme-name\">%s</strong>"
+msgstr "Du tilpasser <strong class=\"theme-name\">%s</strong>"
+
+#: partials/customizer.php:11
+msgid "Back"
+msgstr "Tilbage"
+
+#: partials/customizer.php:5
+msgid "Save"
+msgstr "Gem"
+
+#: includes/helpers.php:231
+msgid "http://wordpress.org/support/view/plugin-reviews/easing-slider?filter=5"
+msgstr "http://wordpress.org/support/view/plugin-reviews/easing-slider?filter=5"
+
+#: includes/helpers.php:231
+msgid "Please rate <strong>Easing Slider</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us keep this plugin free.  Thank you from the Easing Slider team!"
+msgstr "Please rate <strong>Easing Slider</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us keep this plugin free.  Thank you from the Easing Slider team!"
+
+#: includes/class-es-widget.php:113
+msgid " (ID #%s)"
+msgstr "(ID #%s)"
+
+#: includes/class-es-widget.php:111
+msgid "&#8212; Select &#8212;"
+msgstr "&#8212; Vælg &#8212;"
+
+#: includes/class-es-widget.php:109
+msgid "Select Slider:"
+msgstr "Vælg Slider:"
+
+#: includes/class-es-widget.php:105
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/class-es-widget.php:29
+msgid "Display a slider using a widget"
+msgstr "Vis en Slider via en widget"
+
+#: includes/class-es-widget.php:28
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/class-es-welcome-pages.php:113
+msgid "Credits"
+msgstr "Anerkendelse"
+
+#: includes/class-es-welcome-pages.php:112
+msgid "Getting Started"
+msgstr "Kom godt i gang"
+
+#: includes/class-es-welcome-pages.php:111
+msgid "What's New"
+msgstr "Hvad er nyt"
+
+#: includes/class-es-welcome-pages.php:45
+#: includes/class-es-welcome-pages.php:46
+msgid "The people that build Easing Slider"
+msgstr "Folkene bag Easing Slider"
+
+#: includes/class-es-welcome-pages.php:36
+#: includes/class-es-welcome-pages.php:37
+msgid "Getting started with Easing Slider"
+msgstr "Kom godt i gang med Easing slider"
+
+#: includes/class-es-welcome-pages.php:27
+#: includes/class-es-welcome-pages.php:28
+msgid "Welcome to Easing Slider"
+msgstr "Velkommen til Easing Slider"
+
+#: includes/class-es-update-manager.php:395
+msgid "Deactivate"
+msgstr "Deaktivere"
+
+#: includes/class-es-update-manager.php:386
+msgid "\"%s\" License Key"
+msgstr "\"%s\" Licensnøgle"
+
+#: includes/class-es-update-manager.php:353
+msgid "\"%s\" License has been deactivated successfully."
+msgstr "\"%s\" Licens blev deaktiveret."
+
+#: includes/class-es-update-manager.php:317
+msgid "\"%s\" License has been registered successfully."
+msgstr "%s\" Licens blev registeret."
+
+#: includes/class-es-update-manager.php:239
+msgid "Your license could not be deactivated. Please contact support to have it deactivated correctly."
+msgstr "Din licens kunne ikke deaktiveres. Kontakt venligst support for at få den deaktiveret."
+
+#: includes/class-es-update-manager.php:181
+msgid "The license key registration service is temporarily unavailable. Please try again later."
+msgstr "Licens registrering servicen er i midlertidigt utilgængelig. Prøv venligst igen senere."
+
+#: includes/class-es-sliders-list-table.php:420
+msgid "No sliders found."
+msgstr "Der er ikke oprettet en Slider endnu."
+
+#: includes/class-es-sliders-list-table.php:364
+msgid "Published"
+msgstr "Udgivet"
+
+#: includes/class-es-sliders-list-table.php:360
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/class-es-sliders-list-table.php:354
+msgid "%s ago"
+msgstr "%s siden"
+
+#: includes/class-es-sliders-list-table.php:253
+msgid "%s - Copy"
+msgstr "%s - Kopier"
+
+#: includes/class-es-sliders-list-table.php:184
+msgid "Delete"
+msgstr "Slet"
+
+#: includes/class-es-sliders-list-table.php:183
+msgid "Duplicate"
+msgstr "Duplikér"
+
+#: includes/class-es-sliders-list-table.php:55
+msgid "Template Function"
+msgstr "Skabelon funktion"
+
+#: includes/class-es-sliders-list-table.php:54
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: includes/class-es-sliders-list-table.php:53
+msgid "Date"
+msgstr "Dato"
+
+#: includes/class-es-sliders-list-table.php:52
+msgid "Author"
+msgstr "Forfatter"
+
+#: includes/class-es-sliders-list-table.php:51
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-es-sliders-list-table.php:50
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-es-slider.php:663
+msgid "(no title)"
+msgstr "(Ingen titel)"
+
+#: includes/class-es-slider.php:474
+msgid "Fade"
+msgstr "Fade"
+
+#: includes/class-es-slider.php:473
+msgid "Slide"
+msgstr "Slide"
+
+#: includes/class-es-shortcode.php:148
+msgid "<p><strong>The slider specified (ID #%s) could not be found.</strong></p>"
+msgstr "<p><strong>Slider med (ID #%s) findes ikke.</strong></p>"
+
+#: includes/class-es-shortcode.php:116
+msgid " Add Slider"
+msgstr "Tilføj Slider"
+
+#: includes/class-es-shortcode.php:115
+msgid "Add a Slider"
+msgstr "Tilføj en Slider"
+
+#: includes/class-es-shortcode.php:85 partials/customizer.php:8
+msgid "Close"
+msgstr "Luk"
+
+#: includes/class-es-shortcode.php:84
+msgid "Insert Slider"
+msgstr "Indsæt Slider"
+
+#: includes/class-es-shortcode.php:74
+msgid "Select a slider"
+msgstr "Vælg en Slider"
+
+#: includes/class-es-shortcode.php:69
+msgid "Select a slider to insert from the box below."
+msgstr "Vælg en Slider i boksen nedenunder, der skal indsættes."
+
+#: includes/class-es-shortcode.php:68
+msgid "Add a slider"
+msgstr "Tilføj en Slider"
+
+#: includes/class-es-shortcode.php:54
+msgid "Please select a slider"
+msgstr "Vælg en Slider"
+
+#: includes/class-es-settings-page.php:172
+msgid "Settings have been saved successfully."
+msgstr "Indstillingerne er gemt."
+
+#: includes/class-es-settings-page.php:110
+msgid "Licenses"
+msgstr "Licenser"
+
+#: includes/class-es-settings-page.php:109
+msgid "General"
+msgstr "Generelt"
+
+#: includes/class-es-settings-page.php:59
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/class-es-settings-page.php:58
+msgid "Edit Settings"
+msgstr "Rediger indstillinger"
+
+#: includes/class-es-legacy.php:174
+msgid "Looks like you've forgotten to add a slideshow ID to this shortcode. Oh dear!"
+msgstr "Det ser ud til, at du glemte at tilføje et slideshow ID til denne Kortkode."
+
+#: includes/class-es-image-resizer.php:33
+msgid "No image URL has been entered."
+msgstr "Der er ikke indtastet en billede URL."
+
+#: includes/class-es-extensions-page.php:64
+#: includes/class-es-extensions-page.php:65
+msgid "Extensions"
+msgstr "Extensions"
+
+#: includes/class-es-editor-pages.php:315
+msgid "Slider has been saved successfully."
+msgstr "Slider er gemt."
+
+#: includes/class-es-editor-pages.php:194
+msgid "Sliders per page"
+msgstr "Slider per side"
+
+#: includes/class-es-editor-pages.php:163
+msgid "Insert into Slider"
+msgstr "Indsæt i Slider"
+
+#: includes/class-es-editor-pages.php:162
+msgid "Image from Media"
+msgstr "Billede fra Mediebiblioteket"
+
+#: includes/class-es-editor-pages.php:161 partials/edit-slider_sidebar.php:41
+msgid "Update"
+msgstr "Opdatér"
+
+#: includes/class-es-editor-pages.php:160
+msgid "Edit Slide"
+msgstr "Rediger Slide"
+
+#: includes/class-es-editor-pages.php:158
+msgid "Are you sure you wish to delete all of this slider's images? This cannot be reversed."
+msgstr "Er du sikker på du ønsker at slette alle billederne i slideren? Dette kan du ikke fortryde."
+
+#: includes/class-es-editor-pages.php:157
+msgid "Are you sure you wish to delete this slide? This cannot be reversed."
+msgstr "Er du sikker på du ønsker at slette denne slide? Dette kan du ikke fortryde."
+
+#: includes/class-es-editor-pages.php:155
+msgid "Are you sure you wish to do this? This cannot be reversed."
+msgstr "Er du sikker på du ønsker at gøre dette? Dette kan du ikke fortryde."
+
+#: includes/class-es-editor-pages.php:89 partials/edit-slider.php:13
+#: partials/list-sliders.php:5
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: includes/class-es-editor-pages.php:88 partials/edit-slider.php:15
+msgid "Add New Slider"
+msgstr "Tilføj ny Slider"
+
+#: includes/class-es-editor-pages.php:63
+msgid "All Sliders"
+msgstr "Alle Sliders"
+
+#: includes/class-es-customizer.php:203
+msgid "You need to create some sliders to use the customizer."
+msgstr "Du skal lave mindst én Slider, før du kan tilpasse."
+
+#: includes/class-es-customizer.php:60 includes/class-es-customizer.php:61
+msgid "Customize"
+msgstr "Tilpas"
+
+#: includes/class-es-customizer-notice.php:73
+msgid "The Easing Slider \"Customizer\" functionality will soon be removed from this plugin and made available as an extension. If you use the \"Customize\" panel, download and activate the free extension <a href=\"%s\" target=\"_blank\">here</a> to prevents any disruptions. <a href=\"%s\">Dismiss</a>."
+msgstr "Easing Slider Tilpas funktionen vil snart fjernes fra plugin'et og blive til en extension. Hvis du bruger Tilpas, så kan du hente den gratis extension <a href=\"%s\" target=\"_blank\">her</a> for at undgå tab. <a href=\"%s\">Skjul</a>."
+
+#: easing-slider.php:240 includes/class-es-editor-pages.php:62
+#: includes/class-es-menu.php:58 includes/class-es-menu.php:59
+msgid "Sliders"
+msgstr "Sliders"
+
+#: backbone/slide.php:40
+msgid "Deselect"
+msgstr "Fravælg"
+
+#: backbone/edit-slide.php:84
+msgid "Alternative Text"
+msgstr "Alternativ tekst"
+
+#: backbone/edit-slide.php:79
+msgid "Title Attribute"
+msgstr "Titel attribut"
+
+#: backbone/edit-slide.php:76
+msgid "Image Settings"
+msgstr "Billede indstillinger"
+
+#: backbone/edit-slide.php:62
+msgid "Open link in a new window/tab"
+msgstr "Åben link i et nyt vindue eller fane"
+
+#: backbone/edit-slide.php:55
+msgid "Image URL"
+msgstr "Billede URL"
+
+#: backbone/edit-slide.php:51
+msgid "Attachment Page"
+msgstr "Vedhæft side"
+
+#: backbone/edit-slide.php:48
+msgid "Media File"
+msgstr "Mediefil"
+
+#: backbone/edit-slide.php:44
+msgid "Custom URL"
+msgstr "Tilpasset URL"
+
+#: backbone/edit-slide.php:41
+msgid "None"
+msgstr "Ingen"
+
+#: backbone/edit-slide.php:38
+msgid "Link To"
+msgstr "Link to"
+
+#: backbone/edit-slide.php:35
+msgid "Link Settings"
+msgstr "Link indstillinger"
+
+#: backbone/edit-slide.php:11
+msgid "Replace"
+msgstr "Erstat"
+
+#: backbone/edit-slide.php:10
+msgid "Edit Original"
+msgstr "Rediger original"
